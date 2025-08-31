@@ -5,4 +5,3 @@ This folder contains **3 files**:
 3. **`3Streamlit.py`** - The Streamlit web app implementation.  
 
 Try it here: [Mischievous Text Transformer](https://mischievous-text-transformer-2bdiaxqqu3nrqcnwraiegp.streamlit.app/)
-
