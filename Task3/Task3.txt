@@ -1,0 +1,22 @@
+The blog "Deep Learning (Part 1):Understanding Basic Neural Networks" gives a really easy-to-understand introduction to how neural networks actually work. I liked how it began with
+a short story on a researcher who takes inspiration from birds, it made the topic less intimidating for someone who has never heard of neural networks before and feels like it is
+a complex topic. 
+
+The blog then goes into the history of neural networks, starting with the models from 1943 and the Perceptron in 1958. Progress was slow at first, with researchers gradually adding
+hidden layers and better training methods, before things really took off with bigger breakthroughs like Google DeepMind’s algorithm AlphaGo beating a world champion at the game of Go, 
+a complex board game.
+
+
+After that, the blog explains the structure of neural networks. It talks about neurons, weights ,bias and activation functions. It lays out the basics: neurons receive inputs via 
+synapses, each input is multiplied by a weight, summed, and then passed through an activation functions to decide the output. The article also points out that adding a bias term allows 
+the network more flexibility, helping it adjust outputs beyond simple weighted sums. 
+
+The section on activation functions was particularly detailed and interesting. The blog explains functions like sigmoid, ReLU, and tanh change the output of a neuron and why 
+it is important for learning complex patterns. I had heard of ReLU before, but the comparison with sigmoid and tanh made the differences much clearer. 
+
+For me, the biggest takeaway is how important activation functions are. They are the reason neural networks can learn complex patterns and are not limited to linear decision
+boundary making. Without them, the whole system would be far less powerful. 
+
+Even though, I'm pursuing a degree in AIML, I have not really worked much with neural networks myself. Reading this blog made me more interested in trying them out, since it 
+explained the basics in a clear way. The topic feels much less daunting now. 
+Overall, I think this blog does a great job of mixing history, basic concepts, and examples in a way that is easy to follow, even if someone is new to the topic of deep learning. 
