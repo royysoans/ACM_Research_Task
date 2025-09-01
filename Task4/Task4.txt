@@ -1,0 +1,20 @@
+Tips for Writing a Research Paper-https://www.geeksforgeeks.org/blogs/tips-for-writing-a-research-paper/
+
+This article is a clear and short guide that covers the main steps of writing a research paper. I learned useful, practical advice that feels easy
+to follow. 
+
+First, it says to pick a real specific problem rather than a vague idea. The topic I select should genuinely interest me and should be something 
+that is unsolved or needs improvement.Choosing a clear problem will help me stay focused throughout the writing and also makes the research
+more meaningful. 
+
+Another important point was to not copy but to cite sources. It is better to read and understand the idea, then rewrite it in my own words.
+This helps to avoid rejection and is also ethical. It also suggests using visuals like charts or diagrams to explain tricky ideas and the visuals
+should be labelled.
+
+Another important part of writing a research paper is to follow the recommended structure i.e. Title, Abstract, Introduction, Related work,
+Methods, Results, Conclusions. Finally the article encourages revising several times and getting feedback from others to improve clarity and
+fix mistakes. It is essential to re-read the paper few times with a fresh mind to correct repetitive or unclear parts.
+
+Reading this blog also made me think about how I can apply these tips in areas in interested in exploring such as machine learning and
+cybersecurity issues. Even in my small blog where I have written a few posts on cybersecurity issues, I can see how focusing on real problems and
+keeping ideas simple and concise would make my work stronger 
