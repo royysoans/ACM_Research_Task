@@ -16,5 +16,5 @@ Methods, Results, Conclusions. Finally the article encourages revising several t
 fix mistakes. It is essential to re-read the paper few times with a fresh mind to correct repetitive or unclear parts.
 
 Reading this blog also made me think about how I can apply these tips in areas I am interested in exploring such as machine learning and
-cybersecurity issues. Even in my small blog where I have written a few posts on cybersecurity issues, I can see how focusing on real problems and
+cybersecurity issues. Even in my small blog where I have written a few posts on cybersecurity topics, I can see how focusing on real problems and
 keeping ideas simple and concise would make my work stronger 
